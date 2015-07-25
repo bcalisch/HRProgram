@@ -1,6 +1,6 @@
-<%@ page import="com.claimacademy.cardgames.Employee" %>
-<%@ page import="com.claimacademy.cardgames.EmployeeMap" %>
-<%@ page import="com.claimacademy.cardgames.EmployeeUtility" %>
+<%@ page import="com.claimacademy.hr.Employee" %>
+<%@ page import="com.claimacademy.hr.EmployeeMap" %>
+<%@ page import="com.claimacademy.hr.EmployeeUtility" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.Date" %>
 <%--
@@ -14,7 +14,7 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>com.claimacademy.cardgames.Employee Main Page</title>
+    <title>com.claimacademy.hr.Employee Main Page</title>
 </head>
 <body>
 <header>

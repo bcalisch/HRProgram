@@ -1,4 +1,4 @@
-package com.claimacademy.cardgames;
+package com.claimacademy.hr;
 
 import java.util.HashMap;
 

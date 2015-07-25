@@ -1,6 +1,6 @@
-<%@ page import="com.claimacademy.cardgames.Employee" %>
-<%@ page import="com.claimacademy.cardgames.EmployeeMap" %>
-<%@ page import="com.claimacademy.cardgames.EmployeeUtility" %>
+<%@ page import="com.claimacademy.hr.Employee" %>
+<%@ page import="com.claimacademy.hr.EmployeeMap" %>
+<%@ page import="com.claimacademy.hr.EmployeeUtility" %>
 <%@ page import="java.util.ArrayList" %>
 <%--
   Created by IntelliJ IDEA.

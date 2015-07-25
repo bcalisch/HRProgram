@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>EmployeeServlet</servlet-name>
-        <servlet-class>com.claimacademy.cardgames.EmployeeServlet</servlet-class>
+        <servlet-class>com.claimacademy.hr.EmployeeServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
